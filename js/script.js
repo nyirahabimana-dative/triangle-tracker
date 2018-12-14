@@ -6,7 +6,7 @@ function main () {
 
 if (side1 === side2>0 && side1 === side3>0 && side2===side3>0) {
     console.log(alert('your triangle is equilateral'))
-}else if (side1 === side2 || side1 !== side3 || side2 !== side3) {
+}else if (side1 === side2 && side1 !== side3 &&side2 !== side3) {
     console.log(alert ('your triangle is isosceles')) 
 }else if (side1 !==side2 && side1 !== side3 && side2 !==side3) {
     console.log(alert ('your triangle is scalene'))
