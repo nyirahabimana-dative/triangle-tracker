@@ -8,13 +8,15 @@ h2{
 #side1,#side2,#side3{
     margin:3px;
     padding:20px 15px;
-    background-color:lightgoldenrodyellow;
+    background-color: #d98c8c;
     text-align:center;
     margin:20px;
 }
 button{
     background-color:#aaa9e8;
     padding:20px 15px;
+    text-shadow: 2px 2px 2px  brown;
+    font-size:1.1em;
 }
 h3{
     color:rgb(119, 128, 0);
