@@ -39,7 +39,6 @@ html;css and javaScript
 
 ### Contact information
 ## nyiradative052@gmail.com
-## WhatsApp: +250725451048
 
 ### License and Copyright information
 
