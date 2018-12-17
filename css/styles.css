@@ -6,11 +6,11 @@ h2{
 }
 
 #side1,#side2,#side3{
-    margin:3px;
+    margin:2px;
     padding:20px 15px;
     background-color: #d98c8c;
     text-align:center;
-    margin:20px;
+    
 }
 button{
     background-color:#aaa9e8;
